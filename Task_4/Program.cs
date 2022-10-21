@@ -1,6 +1,5 @@
 ﻿// 4.	Найти расстояние между точками в пространстве 2D/3D
 Console.Write ("Чтобы получить расстояние между точками в пространстве 2D и 3D, введите координаты точки Ax: ");
-
 int Ax = int.Parse(Console.ReadLine());
 Console.Write ("Введите координаты точки Ay: ");
 int Ay = int.Parse(Console.ReadLine());
